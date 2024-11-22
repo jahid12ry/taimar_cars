@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Tesla Model S",
+    "image": "https://example.com/tesla-model-s.jpg",
+    "description": "A fully electric luxury sedan offering long range and high performance.",
+    "category": "Electric",
+    "price": "$89,990"
+  },
+  {
+    "id": 2,
+    "name": "Ford Mustang",
+    "image": "https://example.com/ford-mustang.jpg",
+    "description": "An iconic American muscle car known for its powerful engine and sporty design.",
+    "category": "Luxury",
+    "price": "$55,300"
+  },
+  {
+    "id": 3,
+    "name": "BMW 3 Series",
+    "image": "https://example.com/bmw-3-series.jpg",
+    "description": "A compact luxury sedan that delivers a blend of performance, comfort, and technology.",
+    "category": "Luxury",
+    "price": "$42,500"
+  },
+  {
+    "id": 4,
+    "name": "Toyota Corolla",
+    "image": "https://example.com/toyota-corolla.jpg",
+    "description": "A reliable and fuel-efficient compact sedan, popular for its affordability and practicality.",
+    "category": "Sports",
+    "price": "$22,645"
+  },
+  {
+    "id": 5,
+    "name": "Honda Civic",
+    "image": "https://example.com/honda-civic.jpg",
+    "description": "A compact car known for its fuel efficiency, reliability, and modern features.",
+    "category": "Sports",
+    "price": "$25,000"
+  },
+  {
+    "id": 6,
+    "name": "Chevrolet Camaro",
+    "image": "https://example.com/chevrolet-camaro.jpg",
+    "description": "A bold muscle car that offers strong engine options and a dynamic driving experience.",
+    "category": "Sports",
+    "price": "$37,495"
+  },
+  {
+    "id": 7,
+    "name": "Porsche 911",
+    "image": "https://example.com/porsche-911.jpg",
+    "description": "A high-performance sports car known for its iconic design and thrilling driving dynamics.",
+    "category": "Sports",
+    "price": "$106,100"
+  },
+  {
+    "id": 8,
+    "name": "Mercedes-Benz C-Class",
+    "image": "https://example.com/mercedes-c-class.jpg",
+    "description": "A luxury sedan that combines elegant design with advanced technology and a smooth ride.",
+    "category": "Luxury",
+    "price": "$44,850"
+  },
+  {
+    "id": 9,
+    "name": "Jeep Wrangler",
+    "image": "https://example.com/jeep-wrangler.jpg",
+    "description": "An off-road SUV with rugged capabilities, making it a popular choice for adventure enthusiasts.",
+    "category": "SUV",
+    "price": "$35,195"
+  },
+  {
+    "id": 10,
+    "name": "Audi A4",
+    "image": "https://example.com/audi-a4.jpg",
+    "description": "A luxury compact sedan offering a refined interior, advanced tech features, and strong performance.",
+    "category": "Luxury",
+    "price": "$43,400"
+  },
+  {
+    "id": 11,
+    "name": "Ford F-150",
+    "image": "https://example.com/ford-f150.jpg",
+    "description": "A versatile full-size pickup truck known for its capability and durability.",
+    "category": "Luxury",
+    "price": "$35,000"
+  },
+  {
+    "id": 12,
+    "name": "Chevrolet Silverado",
+    "image": "https://example.com/chevrolet-silverado.jpg",
+    "description": "A powerful and reliable pickup truck with a spacious interior and strong towing capacity.",
+    "category": "Luxury",
+    "price": "$38,000"
+  },
+  {
+    "id": 13,
+    "name": "Honda Accord",
+    "image": "https://example.com/honda-accord.jpg",
+    "description": "A midsize sedan known for its comfort, fuel efficiency, and reliability.",
+    "category": "Electric",
+    "price": "$27,000"
+  },
+  {
+    "id": 14,
+    "name": "Nissan Altima",
+    "image": "https://i.ibb.co.com/QbCmPzJ/pexels-pixabay-159490.jpg",
+    "description": "A stylish midsize sedan offering advanced safety features and a comfortable ride.",
+    "category": "Popular",
+    "price": "$26,500"
+  },
+  {
+    "id": 15,
+    "name": "Mazda CX-5",
+    "image": "https://example.com/mazda-cx5.jpg",
+    "description": "A compact SUV that delivers a sporty driving experience with a premium interior.",
+    "category": "SUV",
+    "price": "$28,000"
+  },
+  {
+    "id": 16,
+    "name": "Subaru Outback",
+    "image": "https://example.com/subaru-outback.jpg",
+    "description": "A rugged wagon with standard all-wheel drive, perfect for outdoor adventures.",
+    "category": "SUV",
+    "price": "$30,000"
+  },
+  {
+    "id": 17,
+    "name": "Hyundai Elantra",
+    "image": "https://example.com/hyundai-elantra.jpg",
+    "description": "A compact sedan with modern design, advanced technology, and great fuel efficiency.",
+    "category": "Popular",
+    "price": "$20,650"
+  },
+  {
+    "id": 18,
+    "name": "Kia Soul",
+    "image": "https://example.com/kia-soul.jpg",
+    "description": "A uniquely styled compact crossover with ample interior space and a fun-to-drive character.",
+    "category": "Popular",
+    "price": "$21,300"
+  },
+  {
+    "id": 19,
+    "name": "Volkswagen Golf",
+    "image": "https://example.com/volkswagen-golf.jpg",
+    "description": "A compact hatchback offering a comfortable ride, quality interior, and excellent handling.",
+    "category": "Electric",
+    "price": "$24,000"
+  },
+  {
+    "id": 20,
+    "name": "Lexus RX",
+    "image": "https://example.com/lexus-rx.jpg",
+    "description": "A luxury midsize SUV with a smooth ride, upscale interior, and advanced safety features.",
+    "category": "Luxury",
+    "price": "$49,000"
+  },
+  {
+    "id": 21,
+    "name": "Chevrolet Tahoe",
+    "image": "https://example.com/chevrolet-tahoe.jpg",
+    "description": "A full-size SUV with a spacious interior, strong towing capacity, and advanced safety features.",
+    "category": "Electric",
+    "price": "$55,600"
+  },
+  {
+    "id": 22,
+    "name": "Toyota Highlander",
+    "image": "https://example.com/toyota-highlander.jpg",
+    "description": "A midsize SUV offering a comfortable ride, three rows of seating, and advanced safety features.",
+    "category": "Electric",
+    "price": "$39,000"
+  },
+  {
+    "id": 23,
+    "name": "Ford Explorer",
+    "image": "https://example.com/ford-explorer.jpg",
+    "description": "A versatile midsize SUV with strong performance, spacious interior, and advanced tech features.",
+    "category": "Popular",
+    "price": "$36,500"
+  },
+  {
+    "id": 24,
+    "name": "GMC Sierra",
+    "image": "https://example.com/gmc-sierra.jpg",
+    "description": "A premium full-size pickup truck with strong performance, a luxurious interior, and advanced technology.",
+    "category": "Electric",
+    "price": "$40,000"
+  },
+  {
+    "id": 25,
+    "name": "Dodge Charger",
+    "image": "https://example.com/dodge-charger.jpg",
+    "description": "A full-size sedan with muscle car heritage, offering powerful engine options and bold styling.",
+    "category": "Popular",
+    "price": "$32,500"
+  },
+  {
+    "id": 26,
+    "name": "Jeep Grand Cherokee",
+    "image": "https://example.com/jeep-grand-cherokee.jpg",
+    "description": "A midsize SUV known for its off-road capability, luxury interior, and powerful engine options.",
+    "category": "Electric",
+    "price": "$42,000"
+  },
+  {
+    "id": 27,
+    "name": "Range Rover",
+    "image": "https://example.com/range-rover.jpg",
+    "description": "A luxury full-size SUV offering exceptional off-road capability, premium interior, and powerful performance.",
+    "category": "Luxury",
+    "price": "$92,000"
+  },
+  {
+    "id": 28,
+    "name": "Toyota Tacoma",
+    "image": "https://example.com/toyota-tacoma.jpg",
+    "description": "A midsize pickup truck known for its off-road capability, durability, and reliability.",
+    "category": "Electric",
+    "price": "$34,000"
+  },
+  {
+    "id": 29,
+    "name": "Honda CR-V",
+    "image": "https://example.com/honda-crv.jpg",
+    "description": "A compact SUV offering a spacious interior, advanced safety features, and great fuel efficiency.",
+    "category": "Popular",
+    "price": "$29,000"
+  },
+  {
+    "id": 30,
+    "name": "Tesla Model 3",
+    "image": "https://example.com/tesla-model-3.jpg",
+    "description": "A fully electric sedan offering impressive range, cutting-edge technology, and a minimalist interior.",
+    "category": "Electric",
+    "price": "$40,240"
+  }
+]

@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "reviewer": "Emily Johnson",
+      "rating": 5,
+      "review": "The Tesla Model S is an incredible electric car with a futuristic design, impressive range, and unparalleled performance. The only downside is the price.",
+      "image": "https://example.com/reviewers/emily-johnson.jpg"
+    },
+    {
+      "id": 2,
+      "reviewer": "Michael Smith",
+      "rating": 4,
+      "review": "The Ford Mustang offers exhilarating driving dynamics and a classic muscle car feel. However, the rear seats can be a bit cramped.",
+      "image": "https://example.com/reviewers/michael-smith.jpg"
+    },
+    {
+      "id": 3,
+      "reviewer": "Sarah Williams",
+      "rating": 4.7,
+      "review": "The BMW 3 Series blends luxury, performance, and technology seamlessly. The driving experience is top-notch, though maintenance can be expensive.",
+      "image": "https://example.com/reviewers/sarah-williams.jpg"
+    },
+    {
+      "id": 4,
+      "reviewer": "David Brown",
+      "rating": 4,
+      "review": "The Toyota Corolla is a practical and reliable car with great fuel efficiency. It’s not the most exciting to drive, but it’s perfect for daily commuting.",
+      "image": "https://example.com/reviewers/david-brown.jpg"
+    },
+    {
+      "id": 5,
+      "reviewer": "Jessica Taylor",
+      "rating": 4.6,
+      "review": "The Honda Civic is a well-rounded compact car with excellent fuel economy and a spacious interior. The ride can be a bit firm on rough roads.",
+      "image": "https://example.com/reviewers/jessica-taylor.jpg"
+    },
+    {
+      "id": 6,
+      "reviewer": "Daniel Miller",
+      "rating": 4.4,
+      "review": "The Chevrolet Camaro delivers a powerful engine and aggressive styling. It’s fun to drive but has limited rear visibility and tight cabin space.",
+      "image": "https://example.com/reviewers/daniel-miller.jpg"
+    }
+  ]
+  
